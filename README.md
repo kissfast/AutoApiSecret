@@ -13,7 +13,11 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 利用github action实现**定时自动调用api**，保持E5开发活跃。
 * **免费，不需要额外设备/服务器**，部署完不用管啦。
 * 加密版，隐藏应用id+机密，保护账号安全。
-   ss
+   sssssssss
+   
+   
+   sss
+   
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
 * 普通版地址：https://github.com/wangziyingwen/AutoApi
